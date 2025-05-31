@@ -41,17 +41,6 @@ ninja.data = [{
             window.location.href = "/website/blog/2025/promotional-video/";
           
         },
-      },{id: "post-graph-of-frequency-time-of-dated-ss-manuscripts-intertextuality-and-the-methods-of-diagnosis",
-        
-          title: "Graph of frequency / time of dated SS manuscripts Intertextuality and the Methods...",
-        
-        description: "manuscripts and their dates",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/website/blog/2025/manuscript-frequencies/";
-          
-        },
       },{id: "post-intertextuality-and-the-methods-of-diagnosis",
         
           title: "Intertextuality and the Methods of Diagnosis",
