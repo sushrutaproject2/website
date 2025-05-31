@@ -126,6 +126,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/5_ss_project_edition/";
+            },},{id: "projects-printed-editions-of-the-suśrutasaṃhitā",
+          title: 'Printed editions of the Suśrutasaṃhitā',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/6_ss_project_printed_eds/";
             },},{
         id: 'social-email',
         title: 'email',
