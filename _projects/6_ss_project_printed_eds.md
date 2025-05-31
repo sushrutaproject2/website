@@ -1,0 +1,18 @@
+---
+layout: page
+title: Printed editions of the Suśrutasaṃhitā
+description:
+img: assets/img/saktumiva_sample.png
+importance: 1
+category: tasks
+related_publications: true
+---
+
+The first printed edition of *The Compendium of Suśruta* was produced in 1835–1836 by the eminent Bengali educator Madhusudana Gupta (Gupta 1835–36; Wujastyk 2006b). Since then, there have been at least 43 printed editions of the work. These editions generally copy one another and are altogether based on fewer than twenty manuscripts, almost all from the nineteenth century. More seriously for historical scholarship,these are what are called “Pandit editions,” produced by learned traditional scholars who emended the textfreely in order to make smooth reading, and who referred to manuscripts to select alternative readings eclectically without awareness of the powerful methods of textual criticism developed in Europe since the nineteenth century.
+
+This project will study these printed editions and place them - to the extent possible - in relationship to each other and to the manuscripts on which they were based.
+
+## References
+{% cite gupt-1835 %}
+{% cite wuja-2006 %}
+{% cite birc-2021 %}
