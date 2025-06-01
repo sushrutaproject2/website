@@ -17,7 +17,7 @@ related_publications: false
 
    They are kept in libraries all over India, with a few in Europe and one in the USA, as can be seen in this map:
    <div class="row">
-   <div class="col">
+   <div class="col-sm">
    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=196xRPRGdywqXq0Tzqjnc_C4DOZEIQ4U&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
    </div>
    <div class="col">
