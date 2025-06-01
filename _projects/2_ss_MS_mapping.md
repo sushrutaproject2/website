@@ -2,7 +2,7 @@
 layout: page
 title: Manuscripts in space
 description:
-img: assets/img/KL699-11r.png
+img: assets/img/mapping-mss.png
 importance: 1
 category: tasks
 related_publications: false
