@@ -8,7 +8,8 @@ tags: Caraka Suśruta diagnosis textual_analysis
 categories: 
 ---
 
-In the standard, printed edition or vulgate text of the *Suśrutasaṃhitā*, chapter ten of the Sūtrasthāna is dedicated to the topic of becoming a professional physician (Ācārya, 1938, 42). The title of the chapter is interesting: “how to enter the roadway,” (विशिखानुप्रवेशनीयमध्यायम्). Commentators and dictionaries interpret the word विशिखा to mean “path, road.” This sense is not common in Sanskrit literature (Ācārya, 1938, 1A351-352; Meulenbeld, 1999, 1B323n102) although it is known to lexicographers and also in Pāli (Vinayapiṭaka, Jātaka) and in Sinhalese (Turner, 1966, no11937). (See also SS 3.10.9 for *viśikhāntaram* “interior of the road,” i.e., vaginal passage. The lexeme *śikhā* is a loan word in Sanskrit (Lubotsky, 2001, 305).)
+In the standard, printed edition or vulgate text of the *Suśrutasaṃhitā*, chapter ten of the Sūtrasthāna is dedicated to the topic of becoming a professional physician (Ācārya, 1938, 42). The title of the chapter is interesting: “how to enter the roadway,” (विशिखानुप्रवेशनीयमध्यायम्). Commentators and dictionaries interpret the word विशिखा to mean “path, road.”[^1] 
+[^1]This sense is not common in Sanskrit literature (Ācārya, 1938; Meulenbeld,   1999, 1A 351-352; 1B, 323 n102) although it is known to lexicographers and also in Pāli (Vinayapiṭaka, Jātaka) and in Sinhalese (Turner, 1966, #11937). See also SS 3.10.9 for *viśikhāntaram* “interior of the road,” i.e., vaginal passage. The lexeme *śikhā* is a loan word in Sanskrit (Lubotsky, 2001, 305).
 
 The fourth passage of the chapter, describes how a physician takes note of omens on the way to a patient’s home, and then how he diagnoses the patient:
 
@@ -47,7 +48,7 @@ In the Nepalese version of the *Suśrutasaṃhitā*, however, the passage is muc
 
 Thus, the passage referring to the *Carakasaṃhitā* is absent.
 
-Luckily, for this part of the *Suśrutasaṃhitā*, the learned commentary of Cakrapāṇidatta (fl. 1075) survives. It was edited and published in 1939 by Yādavaśarman T. Ācārya. Commenting on the passage, Ācārya stated that this extra passage was not known to Cakrapāṇidatta (अयं पाठश्च चक्रासंगतः) (Ācārya & Śarman, 1939, 77n2). Thus, we can say that it was added to the text of the *Suśrutasaṃhitā* some time between the oldest Nepalese manuscript (878 CE) and Cakrapāṇidatta’s time, i.e., the eleventh century.
+Luckily, for this part of the *Suśrutasaṃhitā*, the learned commentary of Cakrapāṇidatta (fl. 1075) survives. It was edited and published in 1939 by Yādavaśarman T. Ācārya. Commenting on the passage, Ācārya stated that this extra passage was not known to Cakrapāṇidatta (Ācārya & Śarman, 1939, 77, n.2: अयं पाठश्च चक्रासंगतः). Thus, we can say that it was added to the text of the *Suśrutasaṃhitā* some time between the oldest Nepalese manuscript (878 CE) and Cakrapāṇidatta’s time, i.e., the eleventh century.
 
 The fact that this reference to the *Carakasaṃhitā* is not present in the early Nepalese version of the *Suśrutasaṃhitā* means that this argument about the *Carakasaṃhitā‘s* chronological priority cannot be sustained.
 
