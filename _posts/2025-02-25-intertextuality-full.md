@@ -12,9 +12,20 @@ In the standard, printed edition or vulgate text of the *Suśrutasaṃhitā*, ch
 
 The fourth passage of the chapter, describes how a physician takes note of omens on the way to a patient’s home, and then how he diagnoses the patient:
 
-    Then he should approach the house of the sick person according to the favourableness of the messenger, the reason given, omens, and good-luck signs. After sitting down, he should have a good look at the sick person, he should palpate them and interrogate them. Diseases are mostly understandable through these three means of gaining knowledge. That is what some people say, but it is not correct. There are six means of gaining knowledge about diseases, i.e., by the five senses, hearing etc., and by interrogation.
-    
-    दूतनिमित्तशकुनमङ्गलानुलोम्येनातुरगृहमभिगम्य, उपविश्य, आतुरमभिपश्येत्स्पृशेत्पृच्छेच्च; त्रिभिरेतैर्विज्ञानोपायै रोगाः प्रायशो वेदितव्या इत्येके; तत्तु न सम्यक्, षड्विधो हि रोगाणां विज्ञानोपायः, तद्यथा — पञ्चभिः श्रोत्रादिभिः प्रश्नेन चेति ।। ४ ।।|
+>Then he should approach the house of the sick person 
+    according to the favourableness of the messenger, the 
+    reason given, omens, and good-luck signs. After sitting 
+    down, he should have a good look at the sick person, he 
+    should palpate them and interrogate them. Diseases are 
+    mostly understandable through these three means of gaining 
+    knowledge. That is what some people say, but it is not 
+    correct. There are six means of gaining knowledge about 
+    diseases, i.e., by the five senses, hearing etc., and by 
+    interrogation.
+
+>दूतनिमित्तशकुनमङ्गलानुलोम्येनातुरगृहमभिगम्य, उपविश्य, आतुरमभिपश्येत्स्पृशेत्पृच्छेच्च; 
+    त्रिभिरेतैर्विज्ञानोपायै रोगाः प्रायशो वेदितव्या इत्येके; तत्तु न सम्यक्, षड्विधो हि रोगाणां 
+    विज्ञानोपायः, तद्यथा — पञ्चभिः श्रोत्रादिभिः प्रश्नेन चेति ।। ४ ।।|
     — (Ācārya, 1938, 43)
 
 As we see, the text first proposes a three-part method of diagnosis and then immediately distances itself from that statement and provides a different six-part procedure. One has the sense of hearing two voices.
@@ -23,9 +34,16 @@ Who were the “some people” being referred to? The three-part diagnostic proc
 
 In the Nepalese version of the *Suśrutasaṃhitā*, however, the passage is much simpler and omits this second, distancing, voice:
 
-    Then, arriving at the house of the sick person according to the favourableness of the messenger, the reason given, omens, and good-luck signs, he should sit down. Then, he should have a good look at the sick person, he should palpate them and interrogate them. Through these three means of gaining knowledge it can be known whether life will be long or life will be short.
-    
-    ततो दूतनिमित्तशकुनमङ्गलानुलोम्येनातुरगृहमागम्योपविश्यातुरमभिपश्येत्स्पृशेच्च त्रिभिरेतैर्विज्ञानोपायैः दीर्घमायुषोल्पायुषो वेदितव्यः।
+>Then, arriving at the house of the sick person according to 
+    the favourableness of the messenger, the reason given, 
+    omens, and good-luck signs, he should sit down. Then, he 
+    should have a good look at the sick person, he should 
+    palpate them and interrogate them. Through these three means 
+    of gaining knowledge it can be known whether life will be 
+    long or life will be short.
+
+>ततो दूतनिमित्तशकुनमङ्गलानुलोम्येनातुरगृहमागम्योपविश्यातुरमभिपश्येत्स्पृशेच्च त्रिभिरेतैर्विज्ञानोपायैः 
+    दीर्घमायुषोल्पायुषो वेदितव्यः।
 
 Thus, the passage referring to the *Carakasaṃhitā* is absent.
 
