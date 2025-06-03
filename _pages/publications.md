@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Bibliography
+title: bibliography
 description: General bibliography
 nav: true
 nav_order: 2
