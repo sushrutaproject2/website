@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Project publications
-description: In reversed chronological order. 
+title: Bibliography
+description: General bibliography
 nav: true
 nav_order: 2
 ---
