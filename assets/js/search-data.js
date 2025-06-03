@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/website/blog/";
           },
         },{id: "nav-bibliography",
-          title: "Bibliography",
+          title: "bibliography",
           description: "General bibliography",
           section: "Navigation",
           handler: () => {
