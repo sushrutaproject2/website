@@ -120,6 +120,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/6_ss_project_printed_eds/";
+            },},{id: "projects-commentaries",
+          title: 'Commentaries',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/7_ss_commentaries/";
             },},{
         id: 'social-email',
         title: 'email',
