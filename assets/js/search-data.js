@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "post-promotional-video-for-the-project-ai-generated",
+        },{id: "post-getting-manuscripts",
+        
+          title: "Getting Manuscripts",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/getting-manuscripts/";
+          
+        },
+      },{id: "post-promotional-video-for-the-project-ai-generated",
         
           title: "Promotional video for the project (AI generated)",
         
