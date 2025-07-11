@@ -14,9 +14,9 @@ profiles:
     content: about_dominik.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
-    image: Jason_Birch_at_SOAS.jpg
-    content: about_jason.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
+ # - align: left
+ #   image: Jason_Birch_at_SOAS.jpg
+ #   content: about_jason.md
+ #   image_circular: false # crops the image to make it circular
+ #   more_info: 
 ---
