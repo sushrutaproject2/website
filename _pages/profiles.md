@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: project participants
+title: project participants
+description: 
 nav: true
 nav_order: 7
 
@@ -17,6 +17,11 @@ profiles:
   - align: left
     image: Jason_Birch_at_SOAS.jpg
     content: about_jason.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+  - align: right
+    image: 
+    content: about_tyler.md
     image_circular: false # crops the image to make it circular
     more_info: 
 ---
