@@ -24,4 +24,4 @@ A strong hypothesis is that Candraṭa in particular was a key contributor to th
 
 ## Coverage
 
-![image-20250814150401796](/home/dom/Dropbox/Xdrive/projects/Susrutaproject2/website/assets/img/heatmap-commentary-coverage.png)
+{% include figure.liquid loading="eager" path="assets/img/heatmap-commentary-coverage.png" title="Sections and surviving commentaries." class="img-fluid rounded z-depth-1" %}
