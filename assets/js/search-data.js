@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-acquiring-manuscript-images",
+        },{id: "post-textual-cruxes",
+        
+          title: "Textual cruxes",
+        
+        description: "cruxes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/cruxes/";
+          
+        },
+      },{id: "post-acquiring-manuscript-images",
         
           title: "Acquiring manuscript images",
         
