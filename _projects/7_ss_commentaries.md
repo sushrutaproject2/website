@@ -21,3 +21,7 @@ The project will transcribe and edit previously unstudied medieval commentaries 
 * Gayadāsa (fl. ca. 1000) ([PanditProject](https://panditproject.org/entity/108024/person)).
 
 A strong hypothesis is that Candraṭa in particular was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. None of these commentaries has previously been published or studied.
+
+## Coverage
+
+![image-20250814150401796](/home/dom/Dropbox/Xdrive/projects/Susrutaproject2/website/assets/img/heatmap-commentary-coverage.png)
