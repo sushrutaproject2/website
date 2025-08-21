@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-textual-cruxes",
+        },{id: "post-the-social-importance-of-variant-readings",
+        
+          title: "The social importance of variant readings",
+        
+        description: "how we see society through textual change",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/social-importance-of-variant-readings/";
+          
+        },
+      },{id: "post-textual-cruxes",
         
           title: "Textual cruxes",
         
