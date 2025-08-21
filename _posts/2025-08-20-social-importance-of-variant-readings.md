@@ -3,7 +3,7 @@ layout: post
 title: The Social Importance of Variant Readings
 author:  Dominik Wujastyk
 date: 2025-08-20 12:00:00
-description: how we see society through textual change
+description: Seeing  Society Through Textual Change
 tags: Suśruta variant readings marriage textual_analysis
 categories: 
 ---
@@ -22,13 +22,13 @@ If you scroll to passage 10.53 in the śārīrasthāna, where the care of childr
 >
 > Then, a man of twenty-five should take a wife of twelve so that he may obtain children for the sake of ancestral duty, wealth, and pleasure.
 >
-> --- Suśrutasaṃhitā Śārīrasthāna 10.53 {% cite susr-1931 -l 337}
+> --- Suśrutasaṃhitā Śārīrasthāna 10.53 {% cite susr-1931 -l 337 %}
 
 But in the 1938 edition, Ācārya emended the passage to read "a wife of sixteen."  Viewed as an important social injunction, this is a major change.
 
-In his footnote on this change {% cite susr-1938 -l 392}, Ācārya noted that on this point he was adopting the reading of the "palm leaf manuscript" (*ṣoḍaśavarṣāṃ iti tā. pustake paṭhyate)* and that the other manuscripts he examined read "twelve-year-old"  (*itītareṣu hastalikhitapustakeṣu*).  The palm leaf manuscript he refers to is MS Kathmandu NAK 5-333 (siglum H), and it does indeed read *ṣoḍaśavarṣām* (scribal folio 197r, line 2, image dscn3174 fol196.jpg ). 
+In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that on this point he was adopting the reading of the "palm leaf manuscript" (*ṣoḍaśavarṣāṃ iti tā. pustake paṭhyate)* and that the other manuscripts he examined read "twelve-year-old"  (*itītareṣu hastalikhitapustakeṣu*).  The palm leaf manuscript he refers to is MS Kathmandu NAK 5-333 (siglum H), and it does indeed read *ṣoḍaśavarṣām* (scribal folio 197r, line 2, image dscn3174 fol196.jpg ). 
 
-(As a footnote to a footnote, Ācārya made a typo in his 1938 edition: he printed *ṣoḍaṣadaśavarṣāṃ*; that this was just a typo is proven by his footnote, where he says "ṣoḍaśavarṣāṃ" {% cite susr-1938 -l 392}.)
+(As a footnote to a footnote, Ācārya made a typo in his 1938 edition: he printed *ṣoḍaṣadaśavarṣāṃ*; that this was just a typo is proven by his footnote, where he says "ṣoḍaśavarṣāṃ" {% cite susr-1938 -l 392 %}.)
 
 Thus we see that the small details of philology and textual criticism can make a large difference to the meaning of a text that - even today - has real social influence.  
 
