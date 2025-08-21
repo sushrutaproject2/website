@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+     font-family: 'Lucida Console';
 }
 
 hr {
@@ -835,8 +836,7 @@ footer.sticky-bottom {
 
         p {
           line-height: 1.4em;
-          margin: 10px;
-          font-family: 'Lucida Console';
+          margin: 10px;       
         }
 
         pre {
