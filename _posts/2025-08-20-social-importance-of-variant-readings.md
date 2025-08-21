@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The social importance of variant readings
+title: The Social Importance of Variant Readings
 author:  Dominik Wujastyk
 date: 2025-08-20 12:00:00
 description: how we see society through textual change
@@ -8,7 +8,7 @@ tags: Suśruta variant readings marriage textual_analysis
 categories: 
 ---
 
-The great scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*).  They were published in 1915, 1931 and 1938.  Details of these editions, including the manuscripts Ācārya used, were published in Wujastyk et al. 2023.  
+The great scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*).  They were published in 1915, 1931 and 1938.  Details of these editions, including the manuscripts Ācārya used, were published in {% cite wuja-2006 -L chapter -l 3 %}. 
 
 The Suśruta Project has been using an etext transcription of the 1938 edition, typed and generously made public by Tsutomu Yamashita and Yasutaka Muroya in 2014.  Because of the limited availability of text editions in Japan at the time, this etext used the 1931 edition for the sūtrasthāna and śārīrasthāna parts of the text.  The Suśruta Project 2.0 is currently inputting these parts from the 1938 edition, so that the etext will represent the 1938 edition in a unified way.
 
