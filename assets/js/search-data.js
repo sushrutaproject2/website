@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "post-the-social-importance-of-variant-readings",
         
-          title: "The social importance of variant readings",
+          title: "The Social Importance of Variant Readings",
         
         description: "how we see society through textual change",
         section: "Posts",
