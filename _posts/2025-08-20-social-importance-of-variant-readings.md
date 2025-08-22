@@ -16,7 +16,7 @@ A side-effect of this work means that we are gaining the possibility of comparin
 
 ## When should I get married?
 
-If you scroll to passage 10.53 in the śārīrasthāna, where the care of children is being described, you will find a statement advising a young man of 25 years about whom to marry.  In the 1931 edition, the passage reads :
+If you scroll to passage 10.53 in the śārīrasthāna, where the care of children is being described, you will find a statement advising a young man of 25 years about whom to marry.  In the 1915 and 1931 editions, the passage reads :
 
 > अथास्मै पञ्चविंशतिवर्षाय द्वादशवर्षां पत्नीमावहेत्पित्र्यधर्मार्थकामप्रजाः प्राप्स्यतीति॥ 
 >
@@ -30,7 +30,7 @@ In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that 
 
 (As a footnote to a footnote, Ācārya made a typo in his 1938 edition: he printed *ṣoḍaṣadaśavarṣāṃ*; that this was just a typo is proven by his footnote, where he says "ṣoḍaśavarṣāṃ" {% cite susr-1938 -l 392 %}.)
 
-Thus we see that the small details of philology and textual criticism can make a large difference to the meaning of a text that - even today - has real social influence.  
+The small details of philology and textual criticism can make a large difference to the meaning of a text that - even today - has real social influence.  
 
 ### References
 
