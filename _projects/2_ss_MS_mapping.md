@@ -21,10 +21,5 @@ related_publications: false
    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=196xRPRGdywqXq0Tzqjnc_C4DOZEIQ4U&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
    </div>
    <div class="col">
-   Key: 
-- yellow=1-5 MSS, 
-- green=6-10 MSS, 
-- blue=11-15 MSS, 
-- red=16 or more MSS
    </div>
    </div>
