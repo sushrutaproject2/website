@@ -3,7 +3,7 @@ layout: post
 title: The Social Importance of Variant Readings
 author:  Dominik Wujastyk
 date: 2025-08-20 12:00:00
-description: Seeing  Society Through Textual Change
+description:  Society Through Philology
 tags: Suśruta variant readings marriage textual_analysis
 categories: 
 ---
