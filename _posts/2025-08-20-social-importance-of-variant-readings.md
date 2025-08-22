@@ -34,6 +34,7 @@ The small details of philology and textual criticism can make a large difference
 
 ### References
 
+*  Ācārya, Yādavaśarma Trivikrama. 1915. सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता = the Sushrutasamhita of Sushruta, the Nibandhasangraha Commentary of Shri Dalhaṇāchārya. 1915, Mumbayyāṃ. Nirṇayasāgara Press. http://ark.archive.org/ark:/13960/t3sv0mt50.
 *  Ācārya, Yādavaśarman Trivikrama, ed. 1931. *सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता*. 2nd ed. Mumbayyāṃ: Nirṇayasāgaramudrāyantrālaye. [https://n2t.net/ark:/13960/t9j41sg94](https://n2t.net/ark:/13960/t9j41sg94).
 *  Ācārya, Yādavaśarman Trivikrama, ed. 1938. *सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता*. 3rd ed. Mumbayyāṃ: Nirṇayasāgaramudrāyantrālaye. [https://n2t.net/ark:/13960/s20j9338vs3](https://n2t.net/ark:/13960/s20j9338vs3).
 *  Chakraborty, Deepro. 2018. “Jādavjī Trikamjī Ācārya.” Unpublished.  [http://ark.archive.org/ark:/13960/t8z97s417](http://ark.archive.org/ark:/13960/t8z97s417).
