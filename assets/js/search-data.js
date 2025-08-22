@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "The Social Importance of Variant Readings",
         
-        description: "Seeing  Society Through Textual Change",
+        description: "Society Through Philology",
         section: "Posts",
         handler: () => {
           
