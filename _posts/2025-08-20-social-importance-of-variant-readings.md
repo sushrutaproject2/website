@@ -8,7 +8,7 @@ tags: Suśruta variant readings marriage textual_analysis
 categories: 
 ---
 
-The great scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*).  They were published in 1915, 1931 and 1938.  Details of these editions, including the manuscripts Ācārya used, were published in {% cite wuja-2006 -L chapter -l 3 %}. 
+The great scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*).  They were published in 1915, 1931 and 1938.  Details of these editions, including the manuscripts Ācārya used, were published by Wujastyk et al. {% cite wuja-2006 -A -L chapter -l 3 %}. 
 
 The Suśruta Project has been using an etext transcription of the 1938 edition, typed and generously made public by Tsutomu Yamashita and Yasutaka Muroya in 2014.  Because of the limited availability of text editions in Japan at the time, this etext used the 1931 edition for the sūtrasthāna and śārīrasthāna parts of the text.  The Suśruta Project 2.0 is currently inputting these parts from the 1938 edition, so that the etext will represent the 1938 edition in a unified way.
 
@@ -33,6 +33,10 @@ In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that 
 The small details of philology and textual criticism can make a large difference to the meaning of a text that - even today - has real social influence.  
 
 ### References
+
+## References
+
+{% bibliography -cited  --group_by none  %}
 
 *  Ācārya, Yādavaśarma Trivikrama. 1915. सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता = the Sushrutasamhita of Sushruta, the Nibandhasangraha Commentary of Shri Dalhaṇāchārya. 1915, Mumbayyāṃ. Nirṇayasāgara Press. http://ark.archive.org/ark:/13960/t3sv0mt50.
 *  Ācārya, Yādavaśarman Trivikrama, ed. 1931. *सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता*. 2nd ed. Mumbayyāṃ: Nirṇayasāgaramudrāyantrālaye. [https://n2t.net/ark:/13960/t9j41sg94](https://n2t.net/ark:/13960/t9j41sg94).
