@@ -26,11 +26,13 @@ If you scroll to passage 10.53 in the śārīrasthāna, where the care of childr
 
 But in the 1938 edition, Ācārya emended the passage to read "a wife of sixteen."  Viewed as an important social injunction, this is a major change.
 
-In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that on this point he was adopting the reading of the "palm leaf manuscript" (*ṣoḍaśavarṣāṃ iti tā. pustake paṭhyate)* and that the other manuscripts he examined read "twelve-year-old"  (*itītareṣu hastalikhitapustakeṣu*).  The palm leaf manuscript he refers to is MS Kathmandu NAK 5-333 (siglum H), and it does indeed read *ṣoḍaśavarṣām* (scribal folio 197r, line 2, image dscn3174 fol196.jpg ). 
+In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that on this point he was adopting the reading of the "palm leaf manuscript" (*षोडशवर्षां इति ता। पुस्तके पठ्यते)* and that the other manuscripts he examined read "twelve-year-old"  (*इतीतरेषु हस्तलिखितपुस्तकेषु*).  The palm leaf manuscript he refers to is MS Kathmandu NAK 5-333 (siglum H), and it does indeed read *षोडशवर्षाम्* “sixteen” (scribal folio 197r, line 2, image dscn3174 fol196.jpg ). 
+
+{% include figure.liguid loading=“eager” path=“assets/img/sodasavarsampatnim.png” title=“MS Kathmandu NAK 5-333, scribal folio 197r, line 2.” class=“img-fluid rounded z-depth-1” %}
 
 (As a footnote to a footnote, Ācārya made a typo in his 1938 edition: he printed *ṣoḍaṣadaśavarṣāṃ*; that this was just a typo is proven by his footnote, where he says "ṣoḍaśavarṣāṃ" {% cite susr-1938 -l 392 %}.)
 
-The small details of philology and textual criticism can make a large difference to the meaning of a text that - even today - has real social influence.  
+The small details of philology and textual criticism can make a large difference to the meaning of a text that has real social impact both for our understanding of the past and for custom in India today.  Child marriage is still prevalent in India, although its frequency has been falling since the 1981 census due to modernization, legal and political action and social activism. 
 
 ### References
 
