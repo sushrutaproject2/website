@@ -36,4 +36,4 @@ The small details of philology and textual criticism can make a large difference
 
 ### References
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none %}
