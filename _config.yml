@@ -142,7 +142,7 @@ newsletter:
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
-# Collections
+# Collections (https://jekyllrb.com/docs/collections/)
 # -----------------------------------------------------------------------------
 
 collections:
