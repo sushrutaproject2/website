@@ -108,7 +108,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-summary",
+          section: "News",},{id: "persons-principal-investigator",
+          title: 'Principal Investigator',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/PI/";
+            },},{id: "persons-",
+          title: '',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/persons/dropdown/";
+            },},{id: "projects-project-summary",
           title: 'Project summary',
           description: "",
           section: "Projects",handler: () => {
