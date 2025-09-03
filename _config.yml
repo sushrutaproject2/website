@@ -154,7 +154,7 @@ collections:
     output: true
   projects:
     output: true
-  people:
+  persons:
     output: true
 
 # -----------------------------------------------------------------------------
