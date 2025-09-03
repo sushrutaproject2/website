@@ -29,7 +29,7 @@ But in the 1938 edition, Ācārya emended the passage to read "a wife of sixteen
 
 In his footnote on this change {% cite susr-1938 -l 392 %}, Ācārya noted that on this point he was adopting the reading of the "palm leaf manuscript" (*षोडशवर्षां इति ता। पुस्तके पठ्यते)* and that the other manuscripts he examined read "twelve-year-old"  (*इतीतरेषु हस्तलिखितपुस्तकेषु*).  The palm leaf manuscript he refers to is MS Kathmandu NAK 5-333 (siglum H), and it does indeed read *षोडशवर्षाम्* “sixteen” (scribal folio 197r, line 2, image dscn3174 fol196.jpg ). 
 
-{% include figure.liquid loading=“eager" path=“assets/img/sodasavarsampatnim.png” title=“MS Kathmandu NAK 5-333, scribal folio 197r, line 2.” class=“img-fluid rounded z-depth-1” %}
+{% include figure.liquid loading="eager" path="assets/img/sodasavarsampatnim.png" title="MS Kathmandu NAK 5-333, scribal folio 197r, line 2." class="img-fluid rounded z-depth-1" %}
 
 (As a footnote to a footnote, Ācārya made a typo in his 1938 edition: he printed *ṣoḍaṣadaśavarṣāṃ*; that this was just a typo is proven by his footnote, where he says "ṣoḍaśavarṣāṃ" {% cite susr-1938 -l 392 %}.)
 
