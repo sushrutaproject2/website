@@ -8,7 +8,8 @@ tags: Suśruta variant readings marriage textual_analysis
 categories: 
 ---
 
-The great Sanskrit scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*) {% cite chak-2018a%}.  They were published in 1915, 1931 and 1938 {% susr-1915 susr-1931 susr-1938 %}.  These editions, including the manuscripts Ācārya used, were discussed by Wujastyk et al. {% cite wuja-2023 -A -L chapter -l 3 %}. 
+The great Sanskrit scholar Yādavaśarman Trivikrama Ācārya edited three editions of *The Compendium of Suśruta* (*Suśrutasaṃhitā*) {% cite chak-2018a%}.  
+They were published in 1915, 1931 and 1938 {% cite susr-1915 susr-1931 susr-1938 %}.  These editions, including the manuscripts Ācārya used, were discussed by Wujastyk et al. {% cite wuja-2023 -A -L chapter -l 3 %}. 
 
 The Suśruta Project has been using an etext transcription of the 1938 edition, typed and generously made public by Tsutomu Yamashita and Yasutaka Muroya in 2014.  Because of the limited availability of text editions in Japan at the time, this etext used the 1931 edition for the sūtrasthāna and śārīrasthāna parts of the text.  The Suśruta Project 2.0 is currently inputting these parts from the 1938 edition, so that the etext will represent the 1938 edition in a unified way.
 
