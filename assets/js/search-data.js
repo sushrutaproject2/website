@@ -30,19 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "dropdown-pi",
-              title: "PI",
+        },{id: "dropdown-principal-investigator",
+              title: "Principal Investigator",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/website/pi/";
               },
-            },{id: "dropdown-rf",
-              title: "RF",
+            },{id: "dropdown-research-fellow",
+              title: "Research Fellow",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/website/rf/";
+              },
+            },{id: "dropdown-collaborators",
+              title: "Collaborators",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/collaborators/";
+              },
+            },{id: "dropdown-consultants",
+              title: "Consultants",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/consultants/";
+              },
+            },{id: "dropdown-researc-assistants",
+              title: "Researc Assistants",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/ras/";
               },
             },{id: "post-the-problem-of-candraṭa",
         
