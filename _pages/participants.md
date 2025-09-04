@@ -11,8 +11,8 @@ children:
     permalink: /rf/
   - title: Collaborators
     permalink: /collaborators/
-- title: Consultants
+  - title: Consultants
     permalink: /consultants/
-- title: Researc Assistants
+  - title: Researc Assistants
     permalink: /ras/
 ---
