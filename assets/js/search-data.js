@@ -135,7 +135,7 @@ ninja.data = [{
           title: 'Research assistants',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/RAs/";
+              window.location.href = "/website/ras/";
             },},{id: "participants-research-fellow",
           title: 'Research Fellow',
           description: "",
