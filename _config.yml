@@ -156,12 +156,7 @@ collections:
     output: true
   participants:
     output: true
-      order: 
-	     - PI.md
-	     - RF.md
-	     - RAs.md
-	     - collaborators.md
-	     - consultants.md
+   
    
 
 # -----------------------------------------------------------------------------
