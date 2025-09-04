@@ -30,7 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "post-the-problem-of-candraṭa",
+        },{id: "dropdown-pi",
+              title: "PI",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/participants/";
+              },
+            },{id: "dropdown-rf",
+              title: "RF",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/participants/";
+              },
+            },{id: "post-the-problem-of-candraṭa",
         
           title: "The Problem of Candraṭa",
         
@@ -117,16 +131,16 @@ ninja.data = [{
           description: "",
           section: "Participants",handler: () => {
               window.location.href = "/website/PI/";
-            },},{id: "participants-research-fellow",
-          title: 'Research Fellow',
-          description: "",
-          section: "Participants",handler: () => {
-              window.location.href = "/website/PF/";
             },},{id: "participants-research-assistants",
           title: 'Research assistants',
           description: "",
           section: "Participants",handler: () => {
               window.location.href = "/website/RAs/";
+            },},{id: "participants-research-fellow",
+          title: 'Research Fellow',
+          description: "",
+          section: "Participants",handler: () => {
+              window.location.href = "/website/PF/";
             },},{id: "participants-collaborators",
           title: 'Collaborators',
           description: "",
