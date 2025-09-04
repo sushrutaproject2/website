@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research assistants
-permalink: /RAs/
+permalink: /ras/
 nav: false
 collection: participants
 ---
