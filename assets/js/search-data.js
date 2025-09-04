@@ -112,32 +112,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "persons-principal-investigator",
-          title: 'Principal Investigator',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/PI/";
-            },},{id: "persons-research-assistants",
-          title: 'Research assistants',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/RAs/";
-            },},{id: "persons-research-fellow",
-          title: 'Research Fellow',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/PF/";
-            },},{id: "persons-collaborators",
-          title: 'Collaborators',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/collaborators/";
-            },},{id: "persons-consultants",
-          title: 'Consultants',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/consultants/";
-            },},{id: "projects-project-summary",
+          section: "News",},{id: "projects-project-summary",
           title: 'Project summary',
           description: "",
           section: "Projects",handler: () => {
