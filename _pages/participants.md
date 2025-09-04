@@ -14,6 +14,6 @@ children:
   -  title: Consultants
     permalink: /consultants/
   - title: RAs
-  -   permalink: /RAs/
+    permalink: /RAs/
 ---
 
