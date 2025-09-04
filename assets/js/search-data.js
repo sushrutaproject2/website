@@ -30,28 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/people/";
-          },
-        },{id: "dropdown-pi",
-              title: "PI",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website/PI/";
-              },
-            },{id: "dropdown-rf",
-              title: "RF",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website/RF/";
-              },
-            },{id: "post-the-problem-of-candraṭa",
+        },{id: "post-the-problem-of-candraṭa",
         
           title: "The Problem of Candraṭa",
         
@@ -138,6 +117,26 @@ ninja.data = [{
           description: "",
           section: "Persons",handler: () => {
               window.location.href = "/website/PI/";
+            },},{id: "persons-research-assistants",
+          title: 'Research assistants',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/RAs/";
+            },},{id: "persons-research-fellow",
+          title: 'Research Fellow',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/PF/";
+            },},{id: "persons-collaborators",
+          title: 'Collaborators',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/collaborators/";
+            },},{id: "persons-consultants",
+          title: 'Consultants',
+          description: "",
+          section: "Persons",handler: () => {
+              window.location.href = "/website/consultants/";
             },},{id: "projects-project-summary",
           title: 'Project summary',
           description: "",
