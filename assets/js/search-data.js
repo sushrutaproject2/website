@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "nav-persons",
-          title: "persons",
-          description: "Project participants.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/persons/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "",
@@ -44,7 +37,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-the-problem-of-candraṭa",
+        },{id: "dropdown-pi",
+              title: "PI",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/PI/";
+              },
+            },{id: "dropdown-rf",
+              title: "RF",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/RF/";
+              },
+            },{id: "post-the-problem-of-candraṭa",
         
           title: "The Problem of Candraṭa",
         
