@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-the-social-importance-of-variant-readings",
+        },{id: "post-the-problem-of-candraṭa",
+        
+          title: "The Problem of Candraṭa",
+        
+        description: "Did he write a commentary?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/the-problem-of-Candrata/";
+          
+        },
+      },{id: "post-the-social-importance-of-variant-readings",
         
           title: "The Social Importance of Variant Readings",
         
@@ -113,11 +124,6 @@ ninja.data = [{
           description: "",
           section: "Persons",handler: () => {
               window.location.href = "/website/PI/";
-            },},{id: "persons-",
-          title: '',
-          description: "",
-          section: "Persons",handler: () => {
-              window.location.href = "/website/persons/dropdown/";
             },},{id: "projects-project-summary",
           title: 'Project summary',
           description: "",
