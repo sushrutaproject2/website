@@ -6,8 +6,8 @@ nav_order: 8
 dropdown: true
 children:
   - title: PI
-    permalink: /participants/
+    permalink: PI.md
   - title: RF
-    permalink: /participants/
+    permalink: RF.md
 
 ---
