@@ -35,14 +35,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/participants/";
+                window.location.href = "/website/PI.md";
               },
             },{id: "dropdown-rf",
               title: "RF",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/participants/";
+                window.location.href = "/website/RF.md";
               },
             },{id: "post-the-problem-of-candraṭa",
         
