@@ -23,4 +23,6 @@ We are beginning the work of examining the MSS that apparently contains this wor
 
 This would cast Candraṭa as a scholar who produced a new version of the whole Suśrutasaṃhitā, one that specifically accepted the readings of the earlier commentator Jejjaṭa. 
 
+The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.
+
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
