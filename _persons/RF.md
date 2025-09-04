@@ -1,3 +1,11 @@
+---
+layout: page
+title: Research Fellow
+permalink: /PF/
+nav: false
+collection: participants
+---
+
 ## Jason Birch, Senior Research Fellow
 
 Jason Birch is a scholar of medieval haṭha yoga and a founding member of SOAS's Centre for Yoga Studies. His research includes locating and translating early yoga manuscripts, and preparing critical editions, such as of the Amaraugha. He was a participant in the first Suśruta Project from 2021-2025.
