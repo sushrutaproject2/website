@@ -35,14 +35,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/_participants/PI.md";
+                window.location.href = "/website/pi/";
               },
             },{id: "dropdown-rf",
               title: "RF",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/_participants/RF.md";
+                window.location.href = "/website/rf/";
               },
             },{id: "post-the-problem-of-candraṭa",
         
@@ -130,7 +130,7 @@ ninja.data = [{
           title: 'Principal Investigator',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/PI/";
+              window.location.href = "/website/pi/";
             },},{id: "participants-research-assistants",
           title: 'Research assistants',
           description: "",
@@ -140,7 +140,7 @@ ninja.data = [{
           title: 'Research Fellow',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/PF/";
+              window.location.href = "/website/rf/";
             },},{id: "participants-collaborators",
           title: 'Collaborators',
           description: "",
