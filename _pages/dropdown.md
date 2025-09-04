@@ -1,15 +1,15 @@
 ---
 layout: page
-title: persons
+title: participants
 nav: true
 nav_order: 8
 dropdown: true
 children:
   - title: Principal_Investigator
-    permalink: /persons/
+    permalink: /participants/
   - title: divider
   - title: Research_Fellow
-    permalink: /persons/
+    permalink: /participants/
   - title: Research_Assistants
-     permalink: /persons/
+     permalink: /participants/
 ---
