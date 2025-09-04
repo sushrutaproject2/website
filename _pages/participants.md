@@ -5,8 +5,14 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: PI
+  - title: Principal Investigator
     permalink: /pi/
-  - title: RF
+  - title: Research Fellow
     permalink: /rf/
+  - title: Collaborators
+    permalink: /collaborators/
+- title: Consultants
+    permalink: /consultants/
+- title: Researc Assistants
+    permalink: /ras/
 ---
