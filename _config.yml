@@ -156,12 +156,12 @@ collections:
     output: true
   participants:
     output: true
-    order: 
-      - PI.md
-      - RF.md
-      - RAs.md
-      - collaborators.md
-      - consultants.md
+      order: 
+	     - PI.md
+	     - RF.md
+	     - RAs.md
+	     - collaborators.md
+	     - consultants.md
    
 
 # -----------------------------------------------------------------------------
@@ -208,7 +208,7 @@ exclude:
   - _pages/teaching.md
   - _pages/cv.md
   - _pages/profiles.md
-  #- _pages/dropdown.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
