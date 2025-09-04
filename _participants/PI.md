@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Principal Investigator
-permalink: /PI/
+permalink: /pi/
 nav: false
 collection: participants
 ---

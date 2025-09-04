@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Fellow
-permalink: /PF/
+permalink: /rf/
 nav: false
 collection: participants
 ---
