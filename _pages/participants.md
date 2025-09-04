@@ -9,11 +9,11 @@ children:
     permalink: /PI/
   - title: RF
     permalink: /RF/
-  - title: SSHRC Collaborators
+  - title: SSHRC Collabs
     permalink: /collaborators/
   -  title: Consultants
     permalink: /consultants/
-  - title: Research Associates
+  - title: RAs
   -   permalink: /RAs/
 ---
 

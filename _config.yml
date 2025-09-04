@@ -154,11 +154,9 @@ collections:
     output: true
   projects:
     output: true
-  persons:
+  participants:
     output: true
-    order: 
-    - dominik.md
-    - jason.md
+   
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
