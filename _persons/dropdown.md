@@ -1,8 +1,10 @@
 ---
 layout: page
+permalink: /persons/
 title: submenus
+description: Project participants
 nav: true
-nav_order: 8
+nav_order: 6
 dropdown: true
 children:
   - title: Principal Investigator
