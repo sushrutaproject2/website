@@ -13,6 +13,6 @@ children:
     permalink: /collaborators/
   - title: Consultants
     permalink: /consultants/
-  - title: Researc Assistants
+  - title: Research Associates
     permalink: /ras/
 ---
