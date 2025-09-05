@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assets
+title: assets
 nav: true
 nav_order: 8
 dropdown: true
