@@ -17,11 +17,11 @@ Almost exactly a year ago, in a [blog post of 12 September 2024](https://sushrut
 
 >The correction of readings (pāṭhaśuddhi) in the treatise of Suśruta was done by Candraṭa the son of the doctor Tīsaṭa, after studying the commentary of Jejjaṭa.
 
-Eggeling, for example, characterised a manuscript with this statement as follows {% cite egge-1887 -L part V -l 928a %}: 
+Eggeling, for example, characterised a manuscript with this statement as follows {% cite egge-1887  -l 928a %}: 
 
 >  "Portions of the *Sauśrutīya Āyurvedaśāstra* in Candraṭa's revision of the text made after Jaijjaṭa's (Jaiyyaṭa's) commentary.  Whether the explanatory notes added above and below the text belong to Jaijjaṭa's commentary does not appear" 
 
-Some scholars have suggested that this verse describes an actual commentary or independent work of text-criticism by Candraṭa called the *Suśrutapāṭhaśuddhi* {% cite meul-hist -L volume 2A -l 123 %}.	
+Some scholars have suggested that this verse describes an actual commentary or independent work of text-criticism by Candraṭa called the *Suśrutapāṭhaśuddhi* {% cite meul-hist -l 2A: 123 %}.	
 
 We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adhered to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
 
@@ -30,3 +30,7 @@ This would cast Candraṭa as a scholar who produced a new version of the whole 
 The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.
 
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
+
+## References
+
+{% bibliography --cited  --group_by none  %}
