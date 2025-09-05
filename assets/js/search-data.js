@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-bibliography",
           title: "bibliography",
-          description: "General bibliography",
+          description: "All citations mentioned on this website",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/bibliography/";
