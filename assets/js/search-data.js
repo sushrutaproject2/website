@@ -58,8 +58,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/consultants/";
               },
-            },{id: "dropdown-researc-assistants",
-              title: "Researc Assistants",
+            },{id: "dropdown-research-associates",
+              title: "Research Associates",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -163,8 +163,8 @@ ninja.data = [{
           description: "",
           section: "Participants",handler: () => {
               window.location.href = "/website/pi/";
-            },},{id: "participants-research-assistants",
-          title: 'Research assistants',
+            },},{id: "participants-research-associates",
+          title: 'Research associates',
           description: "",
           section: "Participants",handler: () => {
               window.location.href = "/website/ras/";
