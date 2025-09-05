@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/ras/";
               },
-            },{id: "post-the-problem-of-candraṭa",
+            },{id: "post-the-problem-of-jejjaṭa",
+        
+          title: "The Problem of Jejjaṭa",
+        
+        description: "Did he write a commentary?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/the-problem-of-Jejjata/";
+          
+        },
+      },{id: "post-the-problem-of-candraṭa",
         
           title: "The Problem of Candraṭa",
         
