@@ -6,8 +6,6 @@ nav: false
 collection: participants
 ---
 
-## Collaborators
-
 The SSHRC defines Insight Grant “project collaborators” as 
 
 > An individual, participating in a grant application, who may make a significant contribution to the intellectual direction of the research  or research-related activity, and who may play a significant role in the conduct of the research or research-related activity. 
