@@ -31,3 +31,6 @@ The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his e
 
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
 
+## References
+
+{% bibliography --cited  --group_by none  %}
