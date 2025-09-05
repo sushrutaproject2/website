@@ -30,7 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "dropdown-principal-investigator",
+        },{id: "dropdown-bibliography",
+              title: "Bibliography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/publications/";
+              },
+            },{id: "dropdown-principal-investigator",
               title: "Principal Investigator",
               description: "",
               section: "Dropdown",
@@ -164,7 +171,7 @@ ninja.data = [{
           section: "Participants",handler: () => {
               window.location.href = "/website/pi/";
             },},{id: "participants-research-associates",
-          title: 'Research associates',
+          title: 'Research Associates',
           description: "",
           section: "Participants",handler: () => {
               window.location.href = "/website/ras/";
