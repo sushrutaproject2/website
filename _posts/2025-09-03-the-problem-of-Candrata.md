@@ -4,7 +4,7 @@ title: The Problem of Candraṭa
 author:  Dominik Wujastyk
 date: 2025-09-03 12:00:00
 description:  Did he write a commentary?
-tags: Suśruta commentators
+tags: Suśruta commentators Candraṭa
 categories: 
 ---
 
@@ -31,8 +31,3 @@ The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his e
 
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
 
-As a footnote to the problem of Candraṭa, we may note that manuscripts containing the above verse that ends, "... आलोक्य जैज्जटीं ||" are sometimes misinterpreted as containing a commentary by Jejjaṭa.  This is the case, for example, with MS Bikaner Anup 4391, that was reported as such in NCC {% cite ncc -A -l 7: 317 %}.  This led Meulenbeld to assert the existence of a commentary by Jejjaṭa on the basis of this manuscript {% cite meul-hist -l 1B 506 n.360 %}.  In fact, MS Bikaner Anup 4391 is the text of the *Suśrutasaṃhitā*, with the Candraṭa verse in the colophon. 
-
-## References
-
-{% bibliography --cited  --group_by none  %}
