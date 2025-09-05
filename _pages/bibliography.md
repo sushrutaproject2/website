@@ -2,12 +2,12 @@
 layout: page
 permalink: /bibliography/
 title: bibliography
-description: General bibliography
+description: All citations mentioned on this website
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/bibliography.md -->
 
 <!-- Bibsearch Feature -->
 
