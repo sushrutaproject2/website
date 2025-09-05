@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/blog/";
           },
-        },{id: "nav-bibliography",
-          title: "bibliography",
-          description: "General bibliography",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/publications/";
-          },
         },{id: "nav-project-components",
           title: "project components",
           description: "",
