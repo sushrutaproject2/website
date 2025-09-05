@@ -8,7 +8,11 @@ tags: Caraka Suśruta diagnosis textual_analysis
 categories: 
 ---
 
+###  "Entering the road" of medicine
+
 In the standard, printed edition or vulgate text of the *Suśrutasaṃhitā*, chapter ten of the Sūtrasthāna is dedicated to the topic of becoming a professional physician (Ācārya, 1938, 42). The title of the chapter is interesting: “how to enter the roadway,” (विशिखानुप्रवेशनीयमध्यायम्). Commentators and dictionaries interpret the word विशिखा to mean “path, road.” (This sense is not common in Sanskrit literature (Meulenbeld, 1999, 1A 351-352; 1B, 323 n102) although it is known to lexicographers and also in Pāli (Vinayapiṭaka, Jātaka) and in Sinhalese (Turner, 1966, #11937). See also SS 3.10.9 for *viśikhāntaram* “interior of the road,” i.e., vaginal passage. The lexeme *śikhā* is a loan word in Sanskrit (Lubotsky, 2001, 305).)
+
+### Methods of diagnosis 
 
 The fourth passage of the chapter, describes how a physician takes note of omens on the way to a patient’s home, and then how he diagnoses the patient:
 
