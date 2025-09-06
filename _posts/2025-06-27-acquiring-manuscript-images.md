@@ -5,7 +5,7 @@ author: Dominik Wujastyk
 date: 2025-06-27 07:00:00
 description: manuscript copies
 tags: Suśruta links
-categories: 
+categories: manuscripts
 ---
 
 Work has begun in earnest on the task of collecting more digital copies of manuscripts of the *Suśrutasaṃhitā*.  Currently, the project is seeking copies of manuscripts from the following institutions:

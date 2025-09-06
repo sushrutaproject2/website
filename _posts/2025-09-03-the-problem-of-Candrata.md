@@ -4,7 +4,7 @@ title: The Problem of Candraṭa
 author:  Dominik Wujastyk
 date: 2025-09-03 12:00:00
 description:  Did he write a commentary?
-tags: commentators Candraṭa
+tags: commentators Candraṭa manuscripts Jejjaṭa
 categories: 
 ---
 
