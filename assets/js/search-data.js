@@ -9,28 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/website/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/blog/";
-          },
-        },{id: "nav-project-components",
+  },{id: "nav-project-components",
           title: "project components",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/projects/";
           },
-        },{id: "dropdown-bibliography",
-              title: "Bibliography",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website/bibliography/";
-              },
-            },{id: "dropdown-principal-investigator",
+        },{id: "dropdown-principal-investigator",
               title: "Principal Investigator",
               description: "",
               section: "Dropdown",
@@ -64,6 +50,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/website/ras/";
+              },
+            },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website/blog/";
+          },
+        },{id: "dropdown-bibliography",
+              title: "Bibliography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/bibliography/";
               },
             },{id: "post-the-problem-of-jejjaṭa",
         
