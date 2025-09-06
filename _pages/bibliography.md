@@ -3,7 +3,7 @@ layout: page
 permalink: /bibliography/
 title: bibliography
 description: All citations mentioned on this website
-nav: true
+nav: false
 nav_order: 2
 ---
 
