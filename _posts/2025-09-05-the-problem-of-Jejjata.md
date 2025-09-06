@@ -21,9 +21,9 @@ MSS currently known to have the Candraṭa verse:
 
 ### Testimonia 
 
-There are numerous statements in the secondary literature asserting that commentators cite Jejjaṭa's commentary on the Suśrutasaṃhitā.  For example, the NCC (idem) names Hemādri, Vijayarakṣita, Ṭoḍarānanda, Nāganātha, and Rūpanayana, to  which Meulenbeld adds Ḍalhaṇa, Gayadāsa and Niścalakara  (ibid, v. 1A, p. 385).  Some of these may indeed be concrete evidence for a commentary on the Suśrutasaṃhitā by Jejjaṭa.  They need to be studied individually, especially those of Ḍalhaṇa and Niścalakara.  However, those that I have examined from Hemādri on the Aṣṭāṅgasaṅgraha, are from Jejjaṭa on the *Carakasaṃhitā*, not the *Suśrutasaṃhitā*.  
+There are numerous statements in the secondary literature asserting that commentators cite Jejjaṭa's commentary on the Suśrutasaṃhitā.  For example, the NCC (idem) names Hemādri, Vijayarakṣita, Ṭoḍarānanda, Nāganātha, and Rūpanayana, to  which Meulenbeld adds Ḍalhaṇa, Gayadāsa and Niścalakara  (ibid, v. 1A, p. 385).  Some of these may indeed be concrete evidence for a commentary on the Suśrutasaṃhitā by Jejjaṭa.  They need to be studied individually, especially those of Ḍalhaṇa and Niścalakara.  However, those that I have examined from Indu on the *Aṣṭāṅgahsaṅgraha* {% cite rudr-1924 %}, are from Jejjaṭa on the *Carakasaṃhitā*, not the *Suśrutasaṃhitā*.  
 
-At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā* makes it possible that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
+At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā* makes it likely that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
 
 ## References
 
