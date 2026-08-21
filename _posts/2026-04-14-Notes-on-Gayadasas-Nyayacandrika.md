@@ -11,7 +11,7 @@ The _[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)_ 
 
 ## Surviving portions of the Nyāyacandrikā
 
-Very little of the _Nyāyacandrikā_ survives. Today, we have only the following manuscript fragments:
+Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have only the following manuscript fragments:
 
 ### _Sūtrasthāna_
 
@@ -24,17 +24,17 @@ Very little of the _Nyāyacandrikā_ survives. Today, we have only the following
 
 ### _Śārīrasthāna_
 
-- [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript)
+- [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript).  This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (*Kalpasthāna*) below.  The scribe may be different.  The manuscript includes both commentary and mūla. 
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
-  This MS was copied by the same scribe as Bikaner Anup 4390 and RORI 5157.
-
   Diplomatic transcription of the Cambridge manuscript of this part of the _Nyāyacandrikā_ has begun, and can be viewed [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml) and [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/nyayacandrika_sarirasthana.4.xml?facs=1).
 
 ### _Kalpasthāna_
 
 - [MS Bikaner RORI 5157](https://panditproject.org/entity/108026/manuscript)
   Dated 1468 CE.
-  This is probably part of the same scribal production as Jaipur RORI 6838.
+  This is part of the same manuscript commission as MS Jaipur RORI 6838 above.
+
+## Published portion
 
 The only fragment to be published so far is the commentary on the _Nidānasthāna_, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the _Suśrutasaṃhitā_ {% cite susr-1938 %}.
 
