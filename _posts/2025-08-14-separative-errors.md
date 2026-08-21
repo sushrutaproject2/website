@@ -114,6 +114,8 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 |                                       |                        |                                 |                                                                                                                 |
 |                                       |                        |                                 |                                                                                                                 |
 
+A change.
+
 ## References
 
 {% bibliography -cited  --group_by none  %}
