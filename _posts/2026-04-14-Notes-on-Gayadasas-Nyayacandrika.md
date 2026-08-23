@@ -4,7 +4,7 @@ title: The Nyāyacandrikā of Gayadāsa and its Manuscripts
 author: Dominik Wujastyk and Jason Birch
 date: 2026-04-14
 description: manuscripts and transcriptions
-tags: SuśrutaProject Gayadāsa transcription
+tags: Gayadāsa transcription
 ---
 
 The _[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)_ by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early commentaries on the _Suśrutasaṃhitā_. It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. It is the oldest commentary for which we have any surviving manuscripts.
@@ -26,7 +26,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
 - [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript).  This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (*Kalpasthāna*) below.  The scribe may be different.  The manuscript includes both commentary and mūla. 
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
-  Diplomatic transcription of the Cambridge manuscript of this part of the _Nyāyacandrikā_ has begun, and can be viewed [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml) and [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/nyayacandrika_sarirasthana.4.xml?facs=1).
+  Diplomatic transcription of the Cambridge manuscript of this part of the _Nyāyacandrikā_ has begun, and can be viewed [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-1.xml?facs=2) and [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/nyayacandrika_sarirasthana.4.xml?facs=1).
 
 ### _Kalpasthāna_
 
