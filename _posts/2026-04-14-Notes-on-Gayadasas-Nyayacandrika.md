@@ -38,7 +38,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
   Dated 1468 CE.
   This is part of the same manuscript commission as MS Jaipur RORI 6838 above.
   Diplomatic transcription of this manuscript has begun, and can be viewed:
-  - [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-bikaner-5157_kalpasthana-1)
+  - [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-bikaner-5157_kalpasthana-1?facs=3)
 
 ## Published portion
 
