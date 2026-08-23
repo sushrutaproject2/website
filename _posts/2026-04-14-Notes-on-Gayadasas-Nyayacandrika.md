@@ -35,7 +35,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
   
   - [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-1.xml?facs=2) 
-  - [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-4.xml?facs=1).
+  - [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-4.xml?facs=1)
 
 ### _Kalpasthāna_
 
