@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Suśruta Project — 2025 Annual Report on Technical Infrastructure
+title: The Suśruta Project - 2025 Annual Report on Technical Infrastructure
 author: Dominik Wujastyk and Claude AI
-date: 2025-01-01
+date: 2026-08-24
 description: annual report
 tags: SuśrutaProject annual_report
 ---

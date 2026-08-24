@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Suśruta Project 2 — First Half-Year Report 2026
+title: The Suśruta Project 2 - First Half-Year Report 2026
 author: Dominik Wujastyk and Claude AI
-date: 2026-06-09
+date: 2026-08-24
 description: annual report Jan-June 2026
 tags: SuśrutaProject annual_report
 ---
