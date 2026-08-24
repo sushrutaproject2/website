@@ -20,7 +20,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
   - [here for 1.2](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-2.xml)
-  - [here for 1.6](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-6.xml?facs=39) 
+  - [here for 1.6](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-6.xml?facs=39)
 
 ### _Nidānasthāna_
 
@@ -29,12 +29,12 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
 ### _Śārīrasthāna_
 
-- [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript).  This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (*Kalpasthāna*) below.  The scribe may be different.  The manuscript includes both commentary and mūla. 
+- [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript). This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (_Kalpasthāna_) below. The scribe may be different. The manuscript includes both commentary and mūla.
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
-  
+
   Diplomatic transcription of this manuscript has begun, and can be viewed:
-  
-  - [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-1.xml?facs=2) 
+
+  - [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-1.xml?facs=2)
   - [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/cul-add-2491_nyayacandrika_sarirasthana-4.xml?facs=1)
 
 ### _Kalpasthāna_
@@ -42,9 +42,9 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 - [MS Bikaner RORI 5157](https://panditproject.org/entity/108026/manuscript)
   Dated 1468 CE.
   This is part of the same manuscript commission as MS Jaipur RORI 6838 above.
-  
+
   Diplomatic transcription of this manuscript has begun, and can be viewed:
-  
+
   - [here for 5.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-bikaner-5157_kalpasthana-1?facs=3)
 
 ## Published portion
