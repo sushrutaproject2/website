@@ -72,7 +72,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-on-the-date-of-the-suśrutasaṃhitā",
+            },{id: "post-the-suśruta-project-2-first-half-year-report-2026",
+        
+          title: "The Suśruta Project 2 - First Half-Year Report 2026",
+        
+        description: "annual report Jan-June 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/susruta-project2-H1-2026-report/";
+          
+        },
+      },{id: "post-the-suśruta-project-2025-annual-report-on-technical-infrastructure",
+        
+          title: "The Suśruta Project - 2025 Annual Report on Technical Infrastructure",
+        
+        description: "annual report",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/susruta-project-2025-annual-report/";
+          
+        },
+      },{id: "post-on-the-date-of-the-suśrutasaṃhitā",
         
           title: "On the Date of the Suśrutasaṃhitā",
         
@@ -92,17 +114,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/Claude-experiments/";
-          
-        },
-      },{id: "post-the-suśruta-project-2-first-half-year-report-2026",
-        
-          title: "The Suśruta Project 2 — First Half-Year Report 2026",
-        
-        description: "annual report Jan-June 2026",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/susruta-project2-H1-2026-report/";
           
         },
       },{id: "post-the-external-opinions-cited-by-the-suśrutasaṃhitā",
@@ -312,17 +323,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/intertextuality-full/";
-          
-        },
-      },{id: "post-the-suśruta-project-2025-annual-report-on-technical-infrastructure",
-        
-          title: "The Suśruta Project — 2025 Annual Report on Technical Infrastructure",
-        
-        description: "annual report",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/susruta-project-2025-annual-report/";
           
         },
       },{id: "books-the-godfather",
