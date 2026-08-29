@@ -2,7 +2,7 @@
 layout: post
 title: A New Manuscript of Gayadāsa’s Nyāyacandrikā
 author: Andrey Klebanov
-date: 2026-08-29 12:00:00
+date: 2026-08-28 12:00:00
 description: A codicological description of RORI 6838 and its scribal colophons
 tags: manuscripts Gayadāsa Nyāyacandrikā Suśrutasaṃhitā RORI Jaipur
 ---
