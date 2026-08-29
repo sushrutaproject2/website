@@ -270,6 +270,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/the-problem-of-Candrata/";
           
         },
+      },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
+        
+          title: "A new manuscript of gayadāsa’s nyāyacandrikā",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/A-New-Manuscript-of-Gayad%C4%81sa-s-Ny%C4%81yacandrik%C4%81/";
+          
+        },
       },{id: "post-the-social-importance-of-variant-readings",
         
           title: "The Social Importance of Variant Readings",
