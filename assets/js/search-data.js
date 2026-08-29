@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-the-suśruta-project-2-first-half-year-report-2026",
+            },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
+        
+          title: "A New Manuscript of Gayadāsa’s Nyāyacandrikā",
+        
+        description: "A codicological description of RORI 6838 and its scribal colophons",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/a-new-manuscript-of-Gayadasas-Nyayacandrika/";
+          
+        },
+      },{id: "post-the-suśruta-project-2-first-half-year-report-2026",
         
           title: "The Suśruta Project 2 - First Half-Year Report 2026",
         
@@ -270,15 +281,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/the-problem-of-Candrata/";
           
         },
-      },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
+      },{id: "post-a-new-manuscript-of-gayadasas-nyayacandrika-first-go",
         
-          title: "A new manuscript of gayadāsa’s nyāyacandrikā",
+          title: "A new manuscript of gayadasas nyayacandrika   first go",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/A-New-Manuscript-of-Gayad%C4%81sa-s-Ny%C4%81yacandrik%C4%81/";
+            window.location.href = "/blog/2025/A-New-Manuscript-of-Gayadasas-Nyayacandrika-first-go/";
           
         },
       },{id: "post-the-social-importance-of-variant-readings",
