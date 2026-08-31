@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: The Suśrutasaṃhitā in Time and Space # blog_name will be displayed in your blog page
-blog_description: an exploration of textual change
+blog_description: an exploration of textual change and medical history
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
