@@ -19,6 +19,8 @@ The preliminary results of Claude's output for Suśrutasaṃhitā, Sūtrasthāna
 
 - [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/Claude/provisional-edition_sutrasthana-06_machine-assisted.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/Claude/provisional-edition_sutrasthana-06_machine-assisted.xml)
 
+  Note that in this example, the notes flagged as “(machine-assisted note, resp #AI)” are entirely produced by Claude with no input from me.
+
 You can compare this with the "raw" collation in the online text of Sūtrasthāna 1-31:
 
 - [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml)
